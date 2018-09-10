@@ -22,3 +22,49 @@ A: Is a run time environment which will help us to execute javascript code outsi
 
 5)E2E tests?
 A: End to end test are tests which simulate real user.
+
+6)node_modules?
+A: this is were we store all the third libraries were our application may depend upon. We are not going to deploy node_modules.
+
+7) Webpack?
+A: Angular uses webpack which is a build automation tool. It gets all our scripts combines them and puts them in a bundle and minfies them.
+
+==========
+
+TypeScript
+==========
+
+- Type Annotations
+- Arrow functions
+- Interfaces
+- Classes
+- Constructors
+- Access modifiers
+- Properties
+- Modules
+
+
+8) TypeScript?
+A: TypeScript is super set of javascript...any valid javas	cript code is also valid typescript code.
+
+Additon features in TypeScript
+- Strong Typing
+- Object-Oriented features
+- Complie time errors
+- Great tooling
+
+Broswers don't understand typescript we need to complie/transpile to javascript code.
+
+9) Javascript Versions?
+A: ES5,ES6(2015),ES2016,ES2017
+
+10) var and Let keywords?
+A: In javascript the var keyword is scoped to the nearest function.
+
+Note: Use let keyword whereever you want to declare a variable.
+To get compile time errors use let keyword.
+
+Ex:let a = 5;
+   let a: number; 
+
+
