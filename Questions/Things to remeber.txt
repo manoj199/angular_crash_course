@@ -1,0 +1,11 @@
+1) Benefits of Angular?
+A: 
+- Gives our application clean architecture
+- Inludes allot of reusable code.
+- Makes our application testable
+
+2) Architecture
+A: 
+- Ui(front end)
+ Built using HTMl,css,Typescript,Angular
+- Data and Processing (BackEnd)
