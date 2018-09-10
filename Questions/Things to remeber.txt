@@ -8,4 +8,17 @@ A:
 A: 
 - Ui(front end)
  Built using HTMl,css,Typescript,Angular
+ HTML templates
+ Presentation Logic
 - Data and Processing (BackEnd)
+  Data+API
+  Business Logic
+
+3) Http Services / API
+A: Endpoints that are accessible via the HTTP protocol.
+
+4) Nodejs
+A: Is a run time environment which will help us to execute javascript code outside run time environment.
+
+5)E2E tests?
+A: End to end test are tests which simulate real user.
